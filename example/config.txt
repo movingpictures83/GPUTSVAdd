@@ -1,0 +1,2 @@
+Prefix plugins/GPUTSVAdd/example
+Plugin GPUTSVAdd inputfile parameters.txt outputfile sum.tsv
