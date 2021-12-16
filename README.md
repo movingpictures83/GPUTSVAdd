@@ -1,2 +1,2 @@
-# GPUTSVDeterminant
-GPU code to compute matrix determinant (Tahoun et al, 2016)
+# GPUTSVAdd
+GPU code to add two matrices (Tahoun et al, 2016)
